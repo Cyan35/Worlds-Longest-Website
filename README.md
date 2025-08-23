@@ -1,4 +1,4 @@
-To view this, click on back in a bit ).txt, Then, click "View Raw" (because the file is too long to render in github) And to make this readable, click the ReadMe (on my uploaded files) and set it to code. Then, you could see it properly.
+To view this, click on back in a bit ).txt, Then, click "View Raw" (because the file is too long to render in github) And to make this readable, click the ReadMe (on my uploaded files) and set it to code. Then, you could see it properly. Other way to do it, you could click the link under the description. It could appear on the right side of the repository.
 
 About this game:
 This project is one of the most astonishing and one of most creative ideas i made by myself.
